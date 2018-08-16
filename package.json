@@ -2,7 +2,7 @@
   "name": "react-datatables-wrapper",
   "version": "0.0.1",
   "description": "React Datatables.net wrapper",
-  "main": "lib/Datatable.js",
+  "main": "lib/DataTable.js",
   "files": [
     "lib",
     "src",
