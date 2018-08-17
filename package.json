@@ -3,11 +3,6 @@
   "version": "0.0.2",
   "description": "React Datatables.net wrapper",
   "main": "lib/DataTable.js",
-  "files": [
-    "lib",
-    "src",
-    "css"
-  ],
   "scripts": {
     "start": "cd examples && node server.js",
     "watch": "cd examples && webpack --watch",

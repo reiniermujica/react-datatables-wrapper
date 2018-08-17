@@ -5,5 +5,3 @@ Thumbs.db
 lib/
 node_modules/
 /.project
-
-package-lock.json
